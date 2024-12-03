@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lomas Subedi!  
+# 👋 Hi, I'm Lomas !  
 
 Welcome to my GitHub profile! I'm a passionate **Firmware Engineer** and **Linux enthusiast** with a love for embedded systems and long-term impactful projects.
 
